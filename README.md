@@ -1,1 +1,109 @@
-# Landing
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    
+    <title>Kevin Steven | Arquitectura Digital para Clínicas</title>
+    
+    <meta name="description" content="La evolución silenciosa de tu clínica. Implementamos infraestructura de IA para automatizar la gestión de pacientes y procesos administrativos. Eficiencia invisible, resultados clínicos." />
+    <meta name="author" content="Kevin Steven" />
+    
+    <meta name="keywords" content="automatización clínica, IA médica, gestión de pacientes, agentes de voz salud, infraestructura digital, Kevin Steven, eficiencia hospitalaria, n8n, VAPI" />
+    
+    <link rel="icon" href="/favicon.png" type="image/png">
+    <link rel="canonical" href="https://kevinsteven.com" />
+
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://kevinsteven.com" />
+    <meta property="og:title" content="Kevin Steven - Automatización de IA para Clínicas" />
+    <meta property="og:description" content="Transforma la operatividad de tu centro médico. Automatización inteligente para una experiencia de paciente sin fricción." />
+    <meta property="og:image" content="https://kevinsteven.com/og-dark-clinic.jpg" />
+
+    <meta property="twitter:card" content="summary_large_image" />
+    <meta property="twitter:url" content="https://kevinsteven.com" />
+    <meta property="twitter:title" content="Kevin Steven | IA Clínica" />
+    <meta property="twitter:description" content="Infraestructura de automatización para el sector salud. Recupera el tiempo de tus especialistas." />
+    <meta property="twitter:image" content="https://kevinsteven.com/og-dark-clinic.jpg" />
+
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://kevinsteven.com/#organization",
+          "name": "Kevin Steven",
+          "url": "https://kevinsteven.com",
+          "logo": "https://kevinsteven.com/logo-dark.png",
+          "contactPoint": {
+            "@type": "ContactPoint",
+            "email": "contacto@kevinsteven.com",
+            "contactType": "sales",
+            "areaServed": "Global"
+          },
+          "sameAs": [] 
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://kevinsteven.com/#website",
+          "url": "https://kevinsteven.com",
+          "name": "Kevin Steven - Automatización Clínica",
+          "description": "Sistemas de IA para optimización de procesos médicos",
+          "publisher": {
+            "@id": "https://kevinsteven.com/#organization"
+          }
+        },
+        {
+          "@type": "Service",
+          "provider": {
+            "@id": "https://kevinsteven.com/#organization"
+          },
+          "name": "Infraestructura de IA Clínica",
+          "description": "Desarrollo de ecosistemas digitales para clínicas: Agendamiento automático, triaje por voz IA y seguimiento de pacientes.",
+          "offers": {
+            "@type": "Offer",
+            "name": "Auditoría de Procesos Clínicos",
+            "description": "Análisis profundo de ineficiencias operativas y roadmap de automatización."
+          }
+        },
+        {
+          "@type": "SiteNavigationElement",
+          "name": "Navegación",
+          "url": "https://kevinsteven.com",
+          "hasPart": [
+            {
+              "@type": "SiteNavigationElement",
+              "name": "Ecosistema",
+              "url": "https://kevinsteven.com#ecosistema"
+            },
+            {
+              "@type": "SiteNavigationElement", 
+              "name": "Soluciones",
+              "url": "https://kevinsteven.com#soluciones"
+            },
+            {
+              "@type": "SiteNavigationElement",
+              "name": "Metodología", 
+              "url": "https://kevinsteven.com#metodologia"
+            },
+            {
+              "@type": "SiteNavigationElement",
+              "name": "Resultados",
+              "url": "https://kevinsteven.com#resultados"
+            }
+          ]
+        }
+      ]
+    }
+    </script>
+    
+    <script type="module" crossorigin src="/assets/index-DTgRqhiv.js"></script>
+    <link rel="stylesheet" crossorigin href="/assets/index-BgiOyc3y.css">
+    <script defer src="https://www.kevinsteven.com/~flock.js" data-proxy-url="https://www.kevinsteven.com/~api/analytics"></script>
+</head>
+  
+  <body>
+    <div id="root"></div>
+  </body>
+</html>
